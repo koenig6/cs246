@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang type = "en-us">
+<head>
+<meta charset="utf-8">
+<title>Code</title>
+
+<script type="text/javascript">
+/*Input: 
+ *Processing: 
+ *Output: 
+ */
+ function testConeVolume(){
+ 
+
+}
+
+</script>
+</head>
+
+<body>
+<button type="button" onclick="testConeVolume()">click here</button><br>
+<div id="outputDiv"></div>
+</body>
+</html>
